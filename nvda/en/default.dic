@@ -1,0 +1,574 @@
+ _ {	subscript left brace	0	0
+$	 	0	0
+$%	 	0	0
+&	separator	0	0
+\\bigl 	 	0	1
+\\bigr 	 	0	1
+\\left 		0	1
+\\right 		0	1
+\(	left paren	0	1
+\)	right paren 	0	1
+<	less than	0	0
+=	equal	0	0
+>	greater than 	0	0
+#[	aperta parentesi quadra	0	0
+\%	percent	0	0
+#\\	new line	0	0
+#\`{a}	à	0	0
+#\`{e}	è	0	0
+#\`{i}	ì	0	0
+#\`{o}	ò	0	0
+#\`{u}	ù	0	0
+\aleph	alef	0	0
+\alpha	alpha	0	0
+\angle	 angle	0	0
+\approx	approximately equal	0	0
+\\arccos \^\{3\}	arc cosine cubed of	0	1
+\\arccos \^\{2\}	arc cosine squared of	0	1
+\\arccos \^3	arc cosino cubed of	0	1
+\\arccos \^2	arc cosine squared of	0	1
+\\arccos	arc cosine	0	1
+\\arccot	arc cotangent	0	1
+\\arccsc	arc cosecant	0	1
+\\arcsec	arc secant	0	1
+\\arcsin \^\{3\}	arc sine cubed of	0	1
+\\arcsin \^\{2\}	arc sine squared of	0	1
+\\arcsin \^3	arc sine cubed of	0	1
+\\arcsin \^2	arc sine squared of	0	1
+\\arcsin	arc sine	0	1
+\\arctan \^\{3\}	arc tangent cubed of	0	1
+\\arctan \^\{2\}	arc tangent squared of	 0	1
+\\arctan \^3	arc tangent cubed of	0	1
+\\arctan \^2	arc tangent squared of	0	1
+\\arctanh	hyperbolic arc tangent	 0	1
+\\arctan	arc tangent		0	1
+\\arg	argument	0	1
+\\ast	product	0	1
+\\asymp	asymptotically equivalent	0	1
+\\backslash	backslash	0	1
+\\begin \{array\}	begin table	0	1
+\\begin \{bmatrix\}	begin matrix left bracket	 0	1
+\\begin \{cases\}	begin system	0	1
+\\begin \{matrix\}	begin matrix	0	1
+\\begin \{pmatrix\}	begin matrix left paren 	0	1
+\\begin \{smallmatrix\}	begin matrix	0	1
+\\begin \{vmatrix\}	begin determinant of the matrix	0	1
+\\begin\{document\}	begin latex document	 0	1
+\\beta	beta	0	1
+\\bigcap	intersection	0	1
+\\bigcirc	circle	0	1
+\\bigcup	union	0	1
+\\bigodot	product in a circle	0	1
+\\bigoplus	plus in a circle0	1
+\\bigotimes	x in a cerchio	0	1
+\\bigskip	 blank	 0	1
+\\bigsqcup	disjoint union 0	1
+\\bigtriangledown	nabla	0	1
+\\bigtriangleup	delta	0	1
+\\biguplus	union with +	0	1
+\\bigvee	there exists	 0	1
+\\bigwedge	for all	0	1
+\\binom	binomial coefficient 	0	1
+\\bot	is perpendicular to	0	1
+\\bowtie	natural join 	0	1
+\\bullet	bullet	 0	1
+\\cal	calligraphic	0	1
+\\cap	intersection	0	1
+\\cdot	 product	0	1
+\\chi	khi	0	1
+\\circ	compound	0	1
+\\clubsuit	club suit	0	1
+\\cong	is congruent to	0	1
+\sum\limits_{	sum from left brace	0	0
+\coprod \limits	coproduct of	0	0
+\\coprod \\limits \\sb	coproduct for	0	1
+\\coprod \\limits 	coproduct of	 0	1
+\\coprod	coproduct	0	1
+#\coprod \limits \sb {i=1} ^ N	coproduct for i=1 to N	0	0
+#\coprod \limits \sb {i=1} ^ {N}	coproduttoria per i che va da 1 a N	0	0
+#\coprod \limits \sb {i=1} ^N	coproduttoria per i che va da 1 a N	0	0
+#\coprod \limits \sb {i=1}^ N	coproduttoria per i che va da 1 a N	0	0
+#\coprod \limits \sb {i=1}^N	coproduttoria per i che va da 1 a N	0	0
+#\coprod \limits \sb {i=1}^{N}	coproduttoria per i che va da 1 a N	0	0
+\\cos \^\{3\}	cosine cubed of 	0	1
+\\cos \^\{2\}	cosine squared of  	0	1
+\\cos ^3	cosine cubed of  	0	1
+\\cos ^2	cosine squared of 	0	1
+\\cosh	hyperbolic cosine 	0	1
+\\cos	cosine	0	1
+\\cot \^\{2\}	cotangent squared of	0	1
+\\cot \^\{3\}	cotangent cubed of	0	1
+\\cot ^3	cotangent cubed of	0	1
+\\cot ^2	cotangent squared of	0	1
+\\coth	hyperbolic cotangent	 0	1
+\\cot	cotangent	0	1
+\\cr	new line	0	1
+\\csc	cosecant	0	1
+\\csc ^{3}	cubed of	0	1
+\\csc ^{2}	cosecant squared of	0	1
+\\csc ^3	cosecant cubed of	0	1
+\\csc ^2	cosecant squared of	0	1
+\\cup	union	0	1
+\\dagger	conjugate transposed	0	1
+\\ddots	dots	0	1
+\\deg	degrees	0	1
+\\delimiter "026A30C" 	vertical bar	0	1
+\\delimiter "026B30D" 	double vertical bar	0	1
+\\delimiter "69640972" 	begin absolute value	 0	1
+\\delimiter "69645069" 	begin norm	0	1
+\\delta	delta	1	1
+\\Delta	capital Delta 	1	1
+\\det	determinant	0	1
+\\dfrac\{d\}\{dx\}	derivative with respect to x of 	0	1
+\\dfrac \{	inizio fraction of numerator	0	1
+\\dfrac	fraction	0	1
+\\diamondsuit	diamond suit	 0	1
+\\diamond	diamond	0	1
+\\dim	dimensione	0	1
+\dint	definite integral 	0	0
+\div	divided by	0	0
+\documentclass{article}	latex	0	0
+\doteq	is congruent to	0	0
+\\dotsi \\intop \\ilimits@ \\sb[ {]*0[ }]*\^[ {]*1[ }]* 	definite integral from 0 to 1 of	0	1
+\\dotsi \\intop \\ilimits@ \\sb 	definite integrale of subscript	 0	1
+\\dotsi \\intop \\ilimits@	integral of	0	1
+\dots	dots 	0	0
+\ell	l	0	0
+\emptyset	empty set	 0	0
+\end {array}	end of table	0	0
+\end {bmatrix}	right bracket end of matrix 	0	0
+\end {cases}	end of system	0	0
+\end {matrix}	end of matrix	0	0
+\end {pmatrix}	right paren end of matrix 	0	0
+\end {smallmatrix}	end of matrix	0	0
+\end {vmatrix}	end of determinant	0	0
+\end{document}	end of latex document	 0	0
+\epsilon	epsilon	0	0
+\equiv	is equivalent to	0	0
+\eta	eta	0	0
+\exists !	there exists and is unique	0	0
+\exists	there exists 0	0
+\exp	esponential	0	0
+\flat	flat	0	0
+\forall 	for all 	0	0
+\\frac *\{\\partial *\}\{\\partial ([a-z])\}	partial derivative with respect to \1	1	1
+\frac {\partial }	partial derivative in	0	0
+\\frac *\{ *1 *\} *\{ *2 *\}	one half	0	1
+\\frac\{d\^\{2\}\}\{d([a-z])\^\{2\}\}	second derivative with respect to \1	1	1
+\\frac\{d\^\{3\}\}\{d([a-z])\^\{3\}\}	third derivative with respect to \1	1	1
+\\frac\{d\}\{d([a-z])\^\{(n-1|n)\}	derivative \2 with respect to \1	1	1
+\\frac\{d\}\{d([a-z])\}	derivative with respect to \1 of	1	1
+\frac {d^{2}}	second derivative with respect to 	0	0
+\frac {d^2}	second derivative with respect to 	0	0
+\frac {	begin fraction of numerator	0	0
+\frac	fraction	0	0
+\gamma	gamma	1	0
+\Gamma	capital Gamma 	1	0
+\gcd	g c d	0	0
+\geq	greater than or equal to	0	0
+\ge	greater than or equal to	0	0
+\gg	much greater than 	0	0
+\gt	greater than 	0	0
+\hbar	h with bar 0	0
+\hdotsfor {3}	dotted line 	0	0	
+\heartsuit	heart suit 	0	0
+\hom	 homomorfism of	0	0
+\iiiint	qadruple integral of	 0	0
+\iiint	triple integral of	0	0
+\iint 	double integral of	0	0
+\impliedby	implied by	0	0
+\implies	implies	0	0
+\imath	i	0	0
+\Im	 imaginarey part 	0	0
+\\infty	infinity	0	1
+\\inf 	infimum of	0	1
+\\int *\\sb[ {]*([0-9a-z])[ }]*\^[ {]*([0-9a-z])[ }]*	integral from \1 to \2 of	1	1
+\\in 	in 	0	1
+\iota	iota	0	0
+\ipsilon	ipsilon	0	0
+\jmath	j	0	0
+\kappa	kappa	0	0
+\ker	kernel	0	0
+\lambda	lambda	1	0
+\Lambda	capital Lambda	 1	0
+#\left ( x \right )	di ics	0	0
+#\left ( x\right )	di ics	0	0
+#\left (x \right )	di ics	0	0
+#\left (x\right )	di ics	0	0
+\left [	left bracket 	0	0
+\left \{	left brace	 0	0
+#\left \|	inizio norma	0	0
+#\left (n-1\right )!	aperta parentesi tonda enne meno uno chiusa parentesi tonda fattoriale	0	0
+#\left[	aperta parentesi quadra	0	0
+\leftarrow	left arrow 0	0
+\leftrightarrow	equivalent	0	0
+\leq	less than or equal to 	0	0
+\lg	logarithm to base 10 of	0	0
+\\prod \\limits 	product of   	0	1
+\\prod \\limits \\sb 	producr for	 0	1
+\\lim \\sb \{ *x *\\to *0\^\+ *\}	limit for x going to  0 on the right	 0	1
+\\lim \\sb \{ *x *\\to *0\^- *\}	limit for x going to 0 on the left	 0	1
+\\lim \\sb \{ *x *\\to *([0-9a-z])? *\}	limit or x going to \1	 0	1
+\\lim \\sb \{ *x *\\to \\pm *\\infty *\}	limit for x going t plus  or minus infinity of	0	1
+\\lim \\sb \{ *x *\\to *\+ *\\infty\}	limit for x going to plus infinity of	0	1
+\\lim \\sb \{ *x *\\to *- *\\infty\}	limit for x going to minus infinity of	0	1
+\\lim \\sb \{ *x *\\to *\\infty\}	limit for x going to infinity of	0	1
+\lim \sb	limit for	0	0
+\liminf	limit inf	0	0
+\liminf \sb	limit inf for	0	0
+\limsup	limit sup	0	0
+\limsup \sb	limit sup for	0	0
+\lim	limit	0	0
+\ll	much less than	0	0
+\ln	natural logarithm of	0	0
+\\log \\sb \{e\}	logarithm to base e of 	0	1
+\\log \\sb 	logarithm to base	0	1
+\log	logarithm	0	0
+\longleftarrow	long left arrow	 0	0
+\longrightarrow	long right arrow 	0	0
+\lt	less than 	0	0
+\lvert	begin absolute value	1	0
+\lVert	begin norm	1	0
+\mathbb C	set C of complex numbers	 0	0
+\mathbb N	set N of natural numbers	0	0
+\mathbb Q	set Q of rational numbers	0	0
+\mathbb R	set R of real numbers	0	0
+\mathbb Z	set Z of relative numbers	0	0
+\mathcal	calligraphic	0	0
+\max	maximum	0	0
+\mid	bar	0	0
+\min	minimum	0	0
+\models	inference	0	0
+\mp	minus or plus	0	0
+\mu	mu	0	0
+\nabla ^{2}	laplacian	0	0
+\nabla	nabla	0	0
+\neg	negation of 	0	0
+\neq	not equal to	0	0
+\nexists	there does not exist	0	0
+\ni	in	0	0
+\nLeftarrow	not implied	0	0
+\nLeftrightarrow	not equivalent to	0	0
+\\not *\\in	not in	0	1
+\not \exists	there does not exist	0	0
+\not \subseteq	not a subset or equal to	 0	0
+\\not \\subset	not a subset of	0	1
+\not \supseteq 	not a superset or equal to 	0	0
+\not \supset	not a superset of 0	0
+\notin	not in  	0	0
+\not 	not	0	0
+\nRightarrow	does not imply	0	0
+\nsubseteq 	not a subset or equal to	 0	0
+\nsupseteq 	not a superset or equal to 	0	0
+\nu	ni	0	0
+\\o 	omicron	0	1
+\odot	centre of a circle 	0	0
+\oint	circuitation of	 0	0
+\omega	omega	1	0
+\Omega	capital Omega	 1	0
+\ominus	minus with cirlce	0	0
+\oplus	+ with circle	0	0
+\oslash	slash with circle	0	0
+\otimes	x with circle	0	0
+\overline	over line	 0	0
+\overrightarrow {	vector left brace	 0	0
+\parallel	is parallel to	0	0
+\partial	partial	0	0
+\perp	is perpendicular to	0	0
+\phi	phi	1	0
+\Phi	capital phi	 1	0
+\pi	pigreco	1	0
+\Pi	capital Greek pi	1	0
+\pm	plus or minus 	0	0
+\Pr 	 product	0	0
+\prec 	predecessor of	0	0
+\preceq 	predecessor or equal to 	0	0
+\prime \prime	second	0	0
+\prime	prim	0	0
+#\prod	produttoria	0	0
+#\prod \limits	produttoria di	0	0
+#\prod \limits \sb {i=0} ^ \infty	produttoria per i che va da 0 a infinito	0	0
+#\prod \limits \sb {i=0} ^ n	produttoria per i che va da 0 a n	0	0
+#\prod \limits \sb {i=0} ^ {\infty }	produttoria per i che va da 0 a infinito	0	0
+#\prod \limits \sb {i=0} ^ {n}	produttoria per i che va da 0 a n	0	0
+#\prod \limits \sb {i=0} ^\infty	produttoria per i che va da 0 a infinito	0	0
+#\prod \limits \sb {i=0} ^n	produttoria per i che va da 0 a n	0	0
+#\prod \limits \sb {i=0}^ \infty	produttoria per i che va da 0 a infinito	0	0
+#\prod \limits \sb {i=0}^ n	produttoria per i che va da 0 a n	0	0
+#\prod \limits \sb {i=0}^\infty	produttoria per i che va da 0 a infinito	0	0
+#\prod \limits \sb {i=0}^n	produttoria per i che va da 0 a n	0	0
+#\prod \limits \sb {i=0}^{\infty }	produttoria per i che va da 0 a infinito	0	0
+#\prod \limits \sb {i=0}^{n}	produttoria per i che va da 0 a n	0	0
+#\prod \limits \sb {i=1} ^ \infty	produttoria per i che va da 1 a infinito	0	0
+#\prod \limits \sb {i=1} ^ n	produttoria per i che va da 1 a n	0	0
+#\prod \limits \sb {i=1} ^ {\infty }	produttoria per i che va da 1 a infinito	0	0
+#\prod \limits \sb {i=1} ^ {n}	produttoria per i che va da 1 a n	0	0
+#\prod \limits \sb {i=1} ^\infty	produttoria per i che va da 1 a infinito	0	0
+#\prod \limits \sb {i=1} ^n	produttoria per i che va da 1 a n	0	0
+#\prod \limits \sb {i=1}^ \infty	produttoria per i che va da 1 a infinito	0	0
+#\prod \limits \sb {i=1}^ n	produttoria per i che va da 1 a n	0	0
+#\prod \limits \sb {i=1}^\infty	produttoria per i che va da 1 a infinito	0	0
+#\prod \limits \sb {i=1}^n	produttoria per i che va da 1 a n	0	0
+#\prod \limits \sb {i=1}^{\infty }	produttoria per i che va da 1 a infinito	0	0
+#\prod \limits \sb {i=1}^{n}	produttoria per i che va da 1 a n	0	0
+#\prod \limits \sb {k=0} ^ \infty	produttoria per k che va da 0 a infinito	0	0
+#\prod \limits \sb {k=0} ^ n	produttoria per k che va da 0 a n	0	0
+#\prod \limits \sb {k=0} ^ {\infty }	produttoria per k che va da 0 a infinito	0	0
+#\prod \limits \sb {k=0} ^ {n}	produttoria per k che va da 0 a n	0	0
+#\prod \limits \sb {k=0} ^\infty	produttoria per k che va da 0 a infinito	0	0
+#\prod \limits \sb {k=0} ^n	produttoria per k che va da 0 a n	0	0
+#\prod \limits \sb {k=0}^ \infty	produttoria per k che va da 0 a infinito	0	0
+#\prod \limits \sb {k=0}^ n	produttoria per k che va da 0 a n	0	0
+#\prod \limits \sb {k=0}^\infty	produttoria per k che va da 0 a infinito	0	0
+#\prod \limits \sb {k=0}^n	produttoria per k che va da 0 a n	0	0
+#\prod \limits \sb {k=0}^{\infty }	produttoria per k che va da 0 a infinito	0	0
+#\prod \limits \sb {k=0}^{n}	produttoria per k che va da 0 a n	0	0
+#\prod \limits \sb {k=1} ^ \infty	produttoria per k che va da 1 a infinito	0	0
+#\prod \limits \sb {k=1} ^ n	produttoria per k che va da 1 a n	0	0
+#\prod \limits \sb {k=1} ^ {\infty }	produttoria per k che va da 1 a infinito	0	0
+#\prod \limits \sb {k=1} ^ {n}	produttoria per k che va da 1 a n	0	0
+#\prod \limits \sb {k=1} ^\infty	produttoria per k che va da 1 a infinito	0	0
+#\prod \limits \sb {k=1} ^n	produttoria per k che va da 1 a n	0	0
+#\prod \limits \sb {k=1}^ \infty	produttoria per k che va da 1 a infinito	0	0
+#\prod \limits \sb {k=1}^ n	produttoria per k che va da 1 a n	0	0
+#\prod \limits \sb {k=1}^\infty	produttoria per k che va da 1 a infinito	0	0
+#\prod \limits \sb {k=1}^n	produttoria per k che va da 1 a n	0	0
+#\prod \limits \sb {k=1}^{\infty }	produttoria per k che va da 1 a infinito	0	0
+#\prod \limits \sb {k=1}^{n}	produttoria per k che va da 1 a n	0	0
+#\prod \limits \sb {n=0} ^ \infty	produttoria per n che va da 0 a infinito	0	0
+#\prod \limits \sb {n=0} ^ {\infty }	produttoria per n che va da 0 a infinito	0	0
+#\prod \limits \sb {n=0} ^\infty	produttoria per n che va da 0 a infinito	0	0
+#\prod \limits \sb {n=0}^ \infty	produttoria per n che va da 0 a infinito	0	0
+#\prod \limits \sb {n=0}^\infty	produttoria per n che va da 0 a infinito	0	0
+#\prod \limits \sb {n=0}^{\infty }	produttoria per n che va da 0 a infinito	0	0
+#\prod \limits \sb {n=1} ^ \infty	produttoria per n che va da 1 a infinito	0	0
+#\prod \limits \sb {n=1} ^ {\infty }	produttoria per n che va da 1 a infinito	0	0
+#\prod \limits \sb {n=1} ^\infty	produttoria per n che va da 1 a infinito	0	0
+#\prod \limits \sb {n=1}^ \infty	produttoria per n che va da 1 a infinito	0	0
+#\prod \limits \sb {n=1}^\infty	produttoria per n che va da 1 a infinito	0	0
+#\prod \limits \sb {n=1}^{\infty }	produttoria per n che va da 1 a infinito	0	0
+\projlim	 	0	0
+\propto	is proportional to	0	0
+\protect \mathaccentV {vec}17E{i}	vector i	0	0
+\protect \mathaccentV {vec}17E{j}	vector j	0	0
+\protect \mathaccentV {vec}17E{s}	vector s	0	0
+\protect \mathaccentV {vec}17E{t}	vector t	0	0
+\protect \mathaccentV {vec}17E{v}	vector v	0	0
+\protect \mathaccentV {vec}17E{w}	vector w	0	0
+\protect \mathaccentV {vec}17E{x}	vector x	0	0
+\protect \mathaccentV {vec}17E{y}	vector y	0	0
+\protect \mathaccentV {vec}17E	vector	0	0
+\psi	psi	1	0
+\Psi	capital Psi 	1	0
+\qopname \relax m{lim}\sb {x\to +\infty }	limit for x going to plus infinity of	0	0
+\qopname \relax m{lim}\sb {	limit for	 0	0
+\qquad 	 	0	0
+\quad 	 	0	0
+\Re	  real part of	0	0
+\rho	rho	0	0
+\right )	right paren	 0	0
+#\right \|	fine norma	0	0
+\right \}	right brace	0	0
+\right ]	right bracket	0	0
+\right]	right bracket 	0	0
+\rightarrow	right arrow 	1	0
+\Rightarrow	implies	1	0
+\rvert	end of absolute value	 1	0
+\rVert	end of  norm	1	0
+\sb	subscript	0	0
+\\sec \^[{]*2[}]*	secant squared of	0	1
+\\sec \^[{]*3[}]*	secant cubed of	0	1
+\sec	secant	0	0
+\setminus	difference	0	0
+\sharp	sharp	0	0
+\sigma	sigma	1	0
+\Sigma	capital Sigma 	1	0
+\simeq	similar or equal to	0	0
+\sim	similar to	0	0
+\\sin \^[{]*2[}]*	sine squared	0	1
+\\sin \^[{]*3[}]*	sine cubed	0	1
+\sinh	hyperbolic sine	 0	0
+\sin	sine 	0	0
+\smile	product cup	0	0
+\spadesuit	spade suit 	0	0
+\sqcap	greatest common divisor	 0	0
+\sqcup	disjoint union 	0	0
+\sqrt [3]	cube root of 	0	0
+\sqrt [n]	root with index n of	 0	0
+\sqrt [	square root left bracket	 0	0
+\sqrt {	square root of left paren	 0	0
+\sqrt	root	0	0
+\sqsubseteq	squared subset 	0	0
+\sqsupseteq	squared superset 	0	0
+\stackrel {\frown }{	arc left brace	 0	0
+\frown	arc	0	0
+\star	star	0	0
+\subset 	proper subset of	0	0
+\subseteq 	subset of	0	0
+\subsetneq 	proper subset of 	0	0
+\succ 	successor of 	0	0
+\succeq 	successor or equal to	0	0
+\sum \limits	\sb	sum for	0	0
+\sum \limits	sommatoria of	0	0
+\sum 	sum 	0	0
+#\sum \limits \sb {i=0} ^ \infty	sommatoria per i che va da 0 a infinito	0	0
+#\sum \limits \sb {i=0} ^ n	sommatoria per i che va da 0 a n	0	0
+#\sum \limits \sb {i=0} ^ {\infty }	sommatoria per i che va da 0 a infinito	0	0
+#\sum \limits \sb {i=0} ^ {n}	sommatoria per i che va da 0 a n	0	0
+#\sum \limits \sb {i=0} ^\infty	sommatoria per i che va da 0 a infinito	0	0
+#\sum \limits \sb {i=0} ^n	sommatoria per i che va da 0 a n	0	0
+#\sum \limits \sb {i=0}^ \infty	sommatoria per i che va da 0 a infinito	0	0
+#\sum \limits \sb {i=0}^ n	sommatoria per i che va da 0 a n	0	0
+#\sum \limits \sb {i=0}^\infty	sommatoria per i che va da 0 a infinito	0	0
+#\sum \limits \sb {i=0}^n	sommatoria per i che va da 0 a n	0	0
+#\sum \limits \sb {i=0}^{\infty }	sommatoria per i che va da 0 a infinito	0	0
+#\sum \limits \sb {i=0}^{n}	sommatoria per i che va da 0 a n	0	0
+#\sum \limits \sb {i=1} ^ \infty	sommatoria per i che va da 1 a infinito	0	0
+#\sum \limits \sb {i=1} ^ n	sommatoria per i che va da 1 a n	0	0
+#\sum \limits \sb {i=1} ^ {\infty }	sommatoria per i che va da 1 a infinito	0	0
+#\sum \limits \sb {i=1} ^ {n}	sommatoria per i che va da 1 a n	0	0
+#\sum \limits \sb {i=1} ^\infty	sommatoria per i che va da 1 a infinito	0	0
+#\sum \limits \sb {i=1} ^n	sommatoria per i che va da 1 a n	0	0
+#\sum \limits \sb {i=1}^ \infty	sommatoria per i che va da 1 a infinito	0	0
+#\sum \limits \sb {i=1}^ n	sommatoria per i che va da 1 a n	0	0
+#\sum \limits \sb {i=1}^\infty	sommatoria per i che va da 1 a infinito	0	0
+#\sum \limits \sb {i=1}^n	sommatoria per i che va da 1 a n	0	0
+#\sum \limits \sb {i=1}^{\infty }	sommatoria per i che va da 1 a infinito	0	0
+#\sum \limits \sb {i=1}^{n}	sommatoria per i che va da 1 a n	0	0
+#\sum \limits \sb {k=0} ^ \infty	sommatoria per k che va da 0 a infinito	0	0
+#\sum \limits \sb {k=0} ^ n	sommatoria per k che va da 0 a n	0	0
+#\sum \limits \sb {k=0} ^ {\infty }	sommatoria per k che va da 0 a infinito	0	0
+#\sum \limits \sb {k=0} ^ {n}	sommatoria per k che va da 0 a n	0	0
+#\sum \limits \sb {k=0} ^\infty	sommatoria per k che va da 0 a infinito	0	0
+#\sum \limits \sb {k=0} ^n	sommatoria per k che va da 0 a n	0	0
+#\sum \limits \sb {k=0}^ \infty	sommatoria per k che va da 0 a infinito	0	0
+#\sum \limits \sb {k=0}^ n	sommatoria per k che va da 0 a n	0	0
+#\sum \limits \sb {k=0}^\infty	sommatoria per k che va da 0 a infinito	0	0
+#\sum \limits \sb {k=0}^n	sommatoria per k che va da 0 a n	0	0
+#\sum \limits \sb {k=0}^{\infty }	sommatoria per k che va da 0 a infinito	0	0
+#\sum \limits \sb {k=0}^{n}	sommatoria per k che va da 0 a n	0	0
+#\sum \limits \sb {k=1} ^ \infty	sommatoria per k che va da 1 a infinito	0	0
+#\sum \limits \sb {k=1} ^ n	sommatoria per k che va da 1 a n	0	0
+#\sum \limits \sb {k=1} ^ {\infty }	sommatoria per k che va da 1 a infinito	0	0
+#\sum \limits \sb {k=1} ^ {n}	sommatoria per k che va da 1 a n	0	0
+#\sum \limits \sb {k=1} ^\infty	sommatoria per k che va da 1 a infinito	0	0
+#\sum \limits \sb {k=1} ^n	sommatoria per k che va da 1 a n	0	0
+#\sum \limits \sb {k=1}^ \infty	sommatoria per k che va da 1 a infinito	0	0
+#\sum \limits \sb {k=1}^ n	sommatoria per k che va da 1 a n	0	0
+#\sum \limits \sb {k=1}^\infty	sommatoria per k che va da 1 a infinito	0	0
+#\sum \limits \sb {k=1}^n	sommatoria per k che va da 1 a n	0	0
+#\sum \limits \sb {k=1}^{\infty }	sommatoria per k che va da 1 a infinito	0	0
+#\sum \limits \sb {k=1}^{n}	sommatoria per k che va da 1 a n	0	0
+#\sum \limits \sb {n=0} ^ \infty	sommatoria per n che va da 0 a infinito	0	0
+#\sum \limits \sb {n=0} ^ {\infty }	sommatoria per n che va da 0 a infinito	0	0
+#\sum \limits \sb {n=0} ^\infty	sommatoria per n che va da 0 a infinito	0	0
+#\sum \limits \sb {n=0}^ \infty	sommatoria per n che va da 0 a infinito	0	0
+#\sum \limits \sb {n=0}^\infty	sommatoria per n che va da 0 a infinito	0	0
+#\sum \limits \sb {n=0}^{\infty }	sommatoria per n che va da 0 a infinito	0	0
+\sup 	supremum of 	0	0
+\supset 	proper superset 	0	0
+\supseteq 	superset of	0	0
+\supsetneq 	proper superset of	0	0
+\supsetq 	superset	0	0
+\surd 	square root 	0	0
+\\tan *\^[{]*2[}]*	tangent squared of	0	1
+\\tan *\^[{]*3[}]*	tangent cubed of	0	1
+\tanh	hyperbolic tangent 	 0	0
+\tan	 tangent	0	0
+\tau	tau	0	0
+\text	text	0	0
+\theta	theta	1	0
+\Theta	capital Teta 	1	0
+\times	product	0	0
+\to	to	 0	0
+\top	tautology	0	0
+\triangle 	triangole	0	0
+\triangleq 	defined equal to 	0	0
+\uplus 	union with plus 	0	0
+\upsilon	upsilon	1	0
+\Upsilon	capital Upsilon 	1	0
+\varchi	khi	1	0
+\varepsilon	epsilon	1	0
+\varinjlim	 	0	0
+\varliminf	 	0	0
+\varlimsup	 	0	0
+\varphi	phi	1	0
+\varpi	pigreco	1	0
+\varprojlim 	 	0	0
+\varrho	rho	1	0
+\varsigma	sigma	1	0
+\vartheta	theta	1	0
+\vdots	dots	0	0
+\vec {i}	vector i	0	0
+\vec {j}	vector j	0	0
+\vec {s}	vector s	0	0
+\vec {t}	vector t	0	0
+\vec {v}	vector v	0	0
+\vec {w}	vector w	0	0
+\vec {x}	vector x	0	0
+\vec {y}	vector y	0	0
+\vec 	vector 	0	0
+\vee	vel	0	0
+\vert	vertical bar	1	0
+\Vert	double vertical bar	1	0
+\wedge	vedge	0	0
+\widehat	angle	0	0
+#\wp	insieme delle parti di	0	0
+\wr	reversed s 0	0
+\xi	xi	1	0
+\Xi	capital xi 	1	0
+\zeta	zeta	0	0
+\{	left brace 	0	0
+\}	right brace	0	0
+\[	left bracket	0	0
+\]	right bracket 	0	0
+D_{x^{2}}	 second derivative with respect to x	0	0
+D_{xx}	second derivative with respect to x and x	0	0
+D_{xy}	 second derivative with respect to x and y 	0	0
+D_{x}	derivative with respect to x of	0	0
+d([a-z])d([a-z])	partial \1 partial \2 	0	0
+d([a-z])	de \1	0	1
+e *\^ *[{]*x[}]*	e to the power of x	0	1
+^ 2	squared 	0	0
+^ 3	cubed	0	0
+^ \prime	prime	0	0
+^ { \prime \prime }	second	0	0
+^ {2}	squared 	0	0
+^ {3}	cubed	0	0
+^ {\prime \prime }	second	0	0
+^ {\prime }	prime	0	0
+^2	squared	0	0
+^3	 cubed	0	0
+^\prime	prime	0	0
+^{2}	 squared	0	0
+^{3}	 cubed	0	0
+^{\prime \prime }	second	0	0
+^{\prime }	prime	0	0
+^{}	squared	0	0
+^	superscript	0	0
+#f'(x)	effe primo di ics	0	0
+#f(x)	effe di ics	0	0cmd
+#g'(x)	gi primo di ics	0	0
+#g(x)	gi di ics	0	0
+#g\left( x\right)	g di x	0	0
+Leftrightarrow	Equivalent to	0	0
+Longeftrightarrow	Equivalent to	0	0
+(n-1)!	left paren n minus 1 right paren factorial 	0	0
+n!	n factorial	0	0
+||	double vertical bar	0	0
+|	vertical bar	0	0
+\133	dots 	0	0
+\150	en dash	0	0
+\151	em dash	0	0
+\153	registered	0	0
+\164	end of cell  	0	0
+\168	unordered list	0	0
+\169	copyright	0	0
+\172	optional dash	0	0
+\174	registered	0	0
+\175	end	0	0
+\182	paragraph	0	0
+\183	blank 	0	0
+\188	one fourth	0	0
+\190	three fourths	0	0
+…	dots 	0	0
