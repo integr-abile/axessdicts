@@ -1,4 +1,22 @@
- _ {	in basso aperta parentesi graffa	0	0
+# 
+# Copyright (C) 2020 by
+# Chiara Magosso, Anna Capietto, Sandro Coriasco, Tiziana Armano,
+# Nadir Murru, Dragan Ahmetovic, Cristian Bernareggi
+# 
+# This work is licensed under a  
+# 
+# Creative Commons Attribution Non-Commercial 3.0 License
+# ( http://creativecommons.org/licenses/by-nc/3.0/ )
+# 
+# Permissions beyond the scope of this license may be available at
+# 
+# http://www.integr-abile.unito.it/revenue_sharing_agreement
+# 
+# Please contact accessibile.matematica@unito.it for information.
+# 
+
+
+_ {	in basso aperta parentesi graffa	0	0
 $	 	0	0
 $%	 	0	0
 &	separatore	0	0
