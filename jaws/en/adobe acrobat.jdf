@@ -16,12 +16,12 @@
 ## 
 
 
-. _ {.subscript left brace.*.*.*.0.0.
+._ {.subscript left brace.*.*.*.0.0.
 .$. .*.*.*.0.0.
 .$%. .*.*.*.0.0.
 .&.separator.*.*.*.0.0.
 .(.left paren.*.*.*.0.0.
-.).right paren .*.*.*.0.0.
+.).right paren.*.*.*.0.0.
 .*.star.*.*.*.0.0.
 .*[.times left bracket.*.*.*.0.0.
 .+.plus.*.*.*.0.0.
@@ -37,6 +37,7 @@
 .=.equal.*.*.*.0.0.
 .>.greater than.*.*.*.0.0.
 .[.left bracket.*.*.*.0.0.
+.].right bracket.*.*.*.0.0.
 .\%.percent.*.*.*.0.0.
 .\\.new line.*.*.*.0.0.
 .\`{a}.à.*.*.*.0.0.
@@ -46,11 +47,11 @@
 .\`{u}.ù.*.*.*.0.0.
 .\aleph.aleph.*.*.*.0.0.
 .\alpha.alpha.*.*.*.0.0.
-.\angle. angle .*.*.*.0.0.
+.\angle.angle.*.*.*.0.0.
 .\approx.approximately equal.*.*.*.0.0.
 .\arccos.arc cosine.*.*.*.0.0.
 .\arccos ^2.arc cosine squared of.*.*.*.0.0.
-.\arccos ^3.arc cosine cubed of .*.*.*.0.0.
+.\arccos ^3.arc cosine cubed of.*.*.*.0.0.
 .\arccos ^{2}.arc cosine squared of.*.*.*.0.0.
 .\arccos ^{3}.arc cosine cubed of.*.*.*.0.0.
 .\arccot.arc cotangent.*.*.*.0.0.
@@ -65,19 +66,19 @@
 .\arctan ^2.arc tangent squared of.*.*.*.0.0.
 .\arctan ^3.arc tangent cubed of.*.*.*.0.0.
 .\arctan ^{2}.arc tangent squared of.*.*.*.0.0.
-.\arctan ^{3}.arc tangent cubed of .*.*.*.0.0.
-.\arctanh.hyperbolic arc tangent of .*.*.*.0.0.
+.\arctan ^{3}.arc tangent cubed of.*.*.*.0.0.
+.\arctanh.hyperbolic arc tangent of.*.*.*.0.0.
 .\arg.argomento.*.*.*.0.0.
 .\ast.times.*.*.*.0.0.
 .\asymp.asymptotically equivalent to.*.*.*.0.0.
 .\backslash.backslash.*.*.*.0.0.
 .\begin {array}.begin table.*.*.*.0.0.
 .\begin {bmatrix}.begin matrix left bracket.*.*.*.0.0.
-.\begin {cases}.begin system .*.*.*.0.0.
+.\begin {cases}.begin system.*.*.*.0.0.
 .\begin {matrix}.begin matrix.*.*.*.0.0.
 .\begin {pmatrix}.begin matrix left paren.*.*.*.0.0.
 .\begin {smallmatrix}.begin matrix.*.*.*.0.0.
-.\begin {vmatrix}.begin matrix determinant .*.*.*.0.0.
+.\begin {vmatrix}.begin matrix determinant.*.*.*.0.0.
 .\begin{document}.begin Latex document.*.*.*.0.0.
 .\beta.beta.*.*.*.0.0.
 .\bigcap.intersection.*.*.*.0.0.
@@ -87,9 +88,9 @@
 .\bigodot.product with circle.*.*.*.0.0.
 .\bigoplus.plus with circle.*.*.*.0.0.
 .\bigotimes.times with circle.*.*.*.0.0.
-.\bigr ).right paren .*.*.*.0.0.
-.\bigskip. latex blank.*.*.*.0.0.
-.\bigskip . latex blank.*.*.*.0.0.
+.\bigr ).right paren.*.*.*.0.0.
+.\bigskip.latex blank.*.*.*.0.0.
+.\bigskip.latex blank.*.*.*.0.0.
 .\bigsqcup.disjoint union.*.*.*.0.0.
 .\bigtriangledown.nabla.*.*.*.0.0.
 .\bigtriangleup.delta.*.*.*.0.0.
@@ -97,7 +98,7 @@
 .\bigvee.there exists.*.*.*.0.0.
 .\bigwedge.for all.*.*.*.0.0.
 .\binom.binomial coefficient.*.*.*.0.0.
-.\bot.is perpendicular to .*.*.*.0.0.
+.\bot.is perpendicular to.*.*.*.0.0.
 .\bowtie.natural join.*.*.*.0.0.
 .\bullet.bullet.*.*.*.0.0.
 .\cal.calligraphic.*.*.*.0.0.
@@ -106,7 +107,7 @@
 .\chi.ki.*.*.*.0.0.
 .\circ.compound.*.*.*.0.0.
 .\clubsuit.club symbol.*.*.*.0.0.
-.\cong. congruent .*.*.*.0.0.
+.\cong.congruent.*.*.*.0.0.
 .\coprod.coproduct.*.*.*.0.0.
 .\coprod \limits.coproduct of.*.*.*.0.0.
 .\coprod \limits \sb {i=1} ^ N.coproduct for i = 1 to N.*.*.*.0.0.
@@ -119,14 +120,14 @@
 .\cos ^2.cosine squared of.*.*.*.0.0.
 .\cos ^3.cosine cubed of.*.*.*.0.0.
 .\cos ^{2}.cosine squared of.*.*.*.0.0.
-.\cos ^{3}.cosine cubed of .*.*.*.0.0.
+.\cos ^{3}.cosine cubed of.*.*.*.0.0.
 .\cosh.hyperbolic cosine.*.*.*.0.0.
 .\cot.cotangent.*.*.*.0.0.
 .\cot ^2.cotangent squared of.*.*.*.0.0.
 .\cot ^3.cotangent cubed of.*.*.*.0.0.
-.\cot ^{2}.cotangent squared of .*.*.*.0.0.
+.\cot ^{2}.cotangent squared of.*.*.*.0.0.
 .\cot ^{3}.cotangent cubed of.*.*.*.0.0.
-.\coth.hyperbolic cotangent .*.*.*.0.0.
+.\coth.hyperbolic cotangent.*.*.*.0.0.
 .\cr.new line.*.*.*.0.0.
 .\csc.cosecant.*.*.*.0.0.
 .\csc ^2.cosecant squared of.*.*.*.0.0.
@@ -134,14 +135,14 @@
 .\csc ^{2}.cosecant squared of.*.*.*.0.0.
 .\csc ^{3}.cosecant cubed of.*.*.*.0.0.
 .\cup.union.*.*.*.0.0.
-.\dagger. conjugate transposed.*.*.*.0.0.
+.\dagger.conjugate transposed.*.*.*.0.0.
 .\ddots.dots.*.*.*.0.0.
 .\deg.degrees.*.*.*.0.0.
-.\delimiter "026A30C .delimiter.*.*.*.0.0.
-.\delimiter "026B30D .dobule delimiter.*.*.*.0.0.
-.\delimiter 69640972 .begin absolute value.*.*.*.0.0.
-.\delimiter 69645069 .begin norm.*.*.*.0.0.
-.\Delta.capital delta .*.*.*.1.0.
+.\delimiter "026A30C.delimiter.*.*.*.0.0.
+.\delimiter "026B30D.dobule delimiter.*.*.*.0.0.
+.\delimiter 69640972.begin absolute value.*.*.*.0.0.
+.\delimiter 69645069.begin norm.*.*.*.0.0.
+.\Delta.capital delta.*.*.*.1.0.
 .\delta.delta.*.*.*.0.0.
 .\det.determinant.*.*.*.0.0.
 .\dfrac.fraction.*.*.*.0.0.
@@ -152,24 +153,24 @@
 .\dim.dimension.*.*.*.0.0.
 .\dint.definite integral.*.*.*.0.0.
 .\div.divided by.*.*.*.0.0.
-.\documentclass{article}. latex article.*.*.*.0.0.
+.\documentclass{article}.latex article.*.*.*.0.0.
 .\doteq.is congruent to.*.*.*.0.0.
 .\dots.dots.*.*.*.0.0.
-.\DOTSI  \intop  \ilimits@  .wrong integral.*.*.*.0.0.
+.\DOTSI  \intop  \ilimits@.wrong integral.*.*.*.0.0.
 .\dotsi \intop \ilimits@.integral of.*.*.*.0.0.
-.\dotsi \intop \ilimits@ \sb .definite integral of subscript.*.*.*.0.0.
-.\dotsi \intop \ilimits@ \sb 0 ^ 1 .definite integral from 0 to 1 di.*.*.*.0.0.
-.\dotsi \intop \ilimits@ \sb 0 ^1 .definite integral from 0 to 1 of .*.*.*.0.0.
-.\dotsi \intop \ilimits@ \sb 0^ 1 .definite integral from 0 to 1 of.*.*.*.0.0.
-.\dotsi \intop \ilimits@ \sb 0^1 .definite integral from 0 to 1 di.*.*.*.0.0.
-.\dotsi \intop \ilimits@ \sb {0} ^ {1} .definite integral from 0 to 1 of .*.*.*.0.0.
-.\dotsi \intop \ilimits@ \sb {0}^{1} .definite integral from 0 to 1 of.*.*.*.0.0.
+.\dotsi \intop \ilimits@ \sb.definite integral of subscript.*.*.*.0.0.
+.\dotsi \intop \ilimits@ \sb 0 ^ 1.definite integral from 0 to 1 di.*.*.*.0.0.
+.\dotsi \intop \ilimits@ \sb 0 ^1.definite integral from 0 to 1 of.*.*.*.0.0.
+.\dotsi \intop \ilimits@ \sb 0^ 1.definite integral from 0 to 1 of.*.*.*.0.0.
+.\dotsi \intop \ilimits@ \sb 0^1.definite integral from 0 to 1 di.*.*.*.0.0.
+.\dotsi \intop \ilimits@ \sb {0} ^ {1}.definite integral from 0 to 1 of.*.*.*.0.0.
+.\dotsi \intop \ilimits@ \sb {0}^{1}.definite integral from 0 to 1 of.*.*.*.0.0.
 .\ell.elle.*.*.*.0.0.
-.\emptyset.empty set .*.*.*.0.0.
-.\end {array}.end of table .*.*.*.0.0.
+.\emptyset.empty set.*.*.*.0.0.
+.\end {array}.end of table.*.*.*.0.0.
 .\end {bmatrix}.right bracket end of matrix.*.*.*.0.0.
-.\end {cases}.end of system .*.*.*.0.0.
-.\end {matrix}.end of matrix .*.*.*.0.0.
+.\end {cases}.end of system.*.*.*.0.0.
+.\end {matrix}.end of matrix.*.*.*.0.0.
 .\end {pmatrix}.right paren end of matrix.*.*.*.0.0.
 .\end {smallmatrix}.end of matrix.*.*.*.0.0.
 .\end {vmatrix}.end of determinant.*.*.*.0.0.
@@ -177,44 +178,44 @@
 .\epsilon.epsilon.*.*.*.0.0.
 .\equiv.is equivalent to.*.*.*.0.0.
 .\eta.eta.*.*.*.0.0.
-.\exists.there exists .*.*.*.0.0.
-.\exists !.there exists and it is unique .*.*.*.0.0.
+.\exists.there exists.*.*.*.0.0.
+.\exists !.there exists and it is unique.*.*.*.0.0.
 .\exp.exponential.*.*.*.0.0.
 .\flat.flat.*.*.*.0.0.
-.\forall .for all.*.*.*.0.0.
+.\forall.for all.*.*.*.0.0.
 .\frac.fraction.*.*.*.0.0.
-.\frac {.begin fraction of numerator .*.*.*.0.0.
+.\frac {.begin fraction of numerator.*.*.*.0.0.
 .\frac {1}{2}.one half.*.*.*.0.0.
-.\frac {\partial }.partial derivative with respect to .*.*.*.0.0.
-.\frac {d^2}.second derivative with respect to .*.*.*.0.0.
-.\frac {d^{2}}.second derivative with respect to .*.*.*.0.0.
+.\frac {\partial }.partial derivative with respect to.*.*.*.0.0.
+.\frac {d^2}.second derivative with respect to.*.*.*.0.0.
+.\frac {d^{2}}.second derivative with respect to.*.*.*.0.0.
 .\frac{1}{2}.one half.*.*.*.0.0.
-.\frac{\partial }{\partial a}.partial derivative with respect to a .*.*.*.0.0.
-.\frac{\partial }{\partial b}.partial derivative with respect to b .*.*.*.0.0.
-.\frac{\partial }{\partial c}.partial derivative with respect to c .*.*.*.0.0.
-.\frac{\partial }{\partial d}.partial derivative with respect to d .*.*.*.0.0.
-.\frac{\partial }{\partial e}.partial derivative with respect to e .*.*.*.0.0.
-.\frac{\partial }{\partial f}.partial derivative with respect to f .*.*.*.0.0.
-.\frac{\partial }{\partial g}.partial derivative with respect to g .*.*.*.0.0.
-.\frac{\partial }{\partial h}.partial derivative with respect to h .*.*.*.0.0.
-.\frac{\partial }{\partial i}.partial derivative with respect to i .*.*.*.0.0.
-.\frac{\partial }{\partial j}.partial derivative with respect to j .*.*.*.0.0.
-.\frac{\partial }{\partial k}.partial derivative with respect to k .*.*.*.0.0.
-.\frac{\partial }{\partial l}.partial derivative with respect to l .*.*.*.0.0.
-.\frac{\partial }{\partial m}.partial derivative with respect to m .*.*.*.0.0.
-.\frac{\partial }{\partial n}.partial derivative with respect to n .*.*.*.0.0.
-.\frac{\partial }{\partial o}.partial derivative with respect to o .*.*.*.0.0.
-.\frac{\partial }{\partial p}.partial derivative with respect to p .*.*.*.0.0.
-.\frac{\partial }{\partial q}.partial derivative with respect to q .*.*.*.0.0.
-.\frac{\partial }{\partial r}.partial derivative with respect to r .*.*.*.0.0.
-.\frac{\partial }{\partial s}.partial derivative with respect to s .*.*.*.0.0.
-.\frac{\partial }{\partial t}.partial derivative with respect to t .*.*.*.0.0.
-.\frac{\partial }{\partial u}.partial derivative with respect to u .*.*.*.0.0.
-.\frac{\partial }{\partial v}.partial derivative with respect to v .*.*.*.0.0.
-.\frac{\partial }{\partial w}.partial derivative with respect to w .*.*.*.0.0.
-.\frac{\partial }{\partial x}.partial derivative with respect to x .*.*.*.0.0.
-.\frac{\partial }{\partial y}.partial derivative with respect to y .*.*.*.0.0.
-.\frac{\partial }{\partial z}.partial derivative with respect to z .*.*.*.0.0.
+.\frac{\partial }{\partial a}.partial derivative with respect to a.*.*.*.0.0.
+.\frac{\partial }{\partial b}.partial derivative with respect to b.*.*.*.0.0.
+.\frac{\partial }{\partial c}.partial derivative with respect to c.*.*.*.0.0.
+.\frac{\partial }{\partial d}.partial derivative with respect to d.*.*.*.0.0.
+.\frac{\partial }{\partial e}.partial derivative with respect to e.*.*.*.0.0.
+.\frac{\partial }{\partial f}.partial derivative with respect to f.*.*.*.0.0.
+.\frac{\partial }{\partial g}.partial derivative with respect to g.*.*.*.0.0.
+.\frac{\partial }{\partial h}.partial derivative with respect to h.*.*.*.0.0.
+.\frac{\partial }{\partial i}.partial derivative with respect to i.*.*.*.0.0.
+.\frac{\partial }{\partial j}.partial derivative with respect to j.*.*.*.0.0.
+.\frac{\partial }{\partial k}.partial derivative with respect to k.*.*.*.0.0.
+.\frac{\partial }{\partial l}.partial derivative with respect to l.*.*.*.0.0.
+.\frac{\partial }{\partial m}.partial derivative with respect to m.*.*.*.0.0.
+.\frac{\partial }{\partial n}.partial derivative with respect to n.*.*.*.0.0.
+.\frac{\partial }{\partial o}.partial derivative with respect to o.*.*.*.0.0.
+.\frac{\partial }{\partial p}.partial derivative with respect to p.*.*.*.0.0.
+.\frac{\partial }{\partial q}.partial derivative with respect to q.*.*.*.0.0.
+.\frac{\partial }{\partial r}.partial derivative with respect to r.*.*.*.0.0.
+.\frac{\partial }{\partial s}.partial derivative with respect to s.*.*.*.0.0.
+.\frac{\partial }{\partial t}.partial derivative with respect to t.*.*.*.0.0.
+.\frac{\partial }{\partial u}.partial derivative with respect to u.*.*.*.0.0.
+.\frac{\partial }{\partial v}.partial derivative with respect to v.*.*.*.0.0.
+.\frac{\partial }{\partial w}.partial derivative with respect to w.*.*.*.0.0.
+.\frac{\partial }{\partial x}.partial derivative with respect to x.*.*.*.0.0.
+.\frac{\partial }{\partial y}.partial derivative with respect to y.*.*.*.0.0.
+.\frac{\partial }{\partial z}.partial derivative with respect to z.*.*.*.0.0.
 .\frac{d^{2}}{da^{2}}.second derivative with respect to a.*.*.*.0.0.
 .\frac{d^{2}}{db^{2}}.second derivative with respect to b.*.*.*.0.0.
 .\frac{d^{2}}{dc^{2}}.second derivative with respect to c.*.*.*.0.0.
@@ -267,99 +268,99 @@
 .\frac{d^{3}}{dx^{3}}.third derivative with respect to x.*.*.*.0.0.
 .\frac{d^{3}}{dy^{3}}.third derivative with respect to y.*.*.*.0.0.
 .\frac{d^{3}}{dz^{3}}.third derivative with respect to z.*.*.*.0.0.
-.\frac{d}{da^{n-1}.n-1 derivative with respect to a .*.*.*.0.0.
+.\frac{d}{da^{n-1}.n-1 derivative with respect to a.*.*.*.0.0.
 .\frac{d}{da^{n}.nth derivative with respect to a.*.*.*.0.0.
 .\frac{d}{da}.derivative with respect to a of.*.*.*.0.0.
 .\frac{d}{db^{n-1}.n-1 derivative with respect to b.*.*.*.0.0.
 .\frac{d}{db^{n}.nth derivative with respect to b.*.*.*.0.0.
-.\frac{d}{db}.derivative with respect to b of  .*.*.*.0.0.
+.\frac{d}{db}.derivative with respect to b of.*.*.*.0.0.
 .\frac{d}{dc^{n-1}.n-1 derivative with respect to c.*.*.*.0.0.
 .\frac{d}{dc^{n}.nth derivative with respect to c.*.*.*.0.0.
-.\frac{d}{dc}.derivative with respect to c of  .*.*.*.0.0.
+.\frac{d}{dc}.derivative with respect to c of.*.*.*.0.0.
 .\frac{d}{dd^{n-1}.n-1 derivative with respect to d.*.*.*.0.0.
 .\frac{d}{dd^{n}.nth derivative with respect to d.*.*.*.0.0.
-.\frac{d}{dd}.derivative with respect to d of  .*.*.*.0.0.
+.\frac{d}{dd}.derivative with respect to d of.*.*.*.0.0.
 .\frac{d}{de^{n-1}.n-1 derivative with respect to e.*.*.*.0.0.
 .\frac{d}{de^{n}.nth derivative with respect to e.*.*.*.0.0.
-.\frac{d}{de}.derivative with respect to e of  .*.*.*.0.0.
+.\frac{d}{de}.derivative with respect to e of.*.*.*.0.0.
 .\frac{d}{df^{n-1}.n-1 derivative with respect to f.*.*.*.0.0.
 .\frac{d}{df^{n}.nth derivative with respect to f.*.*.*.0.0.
-.\frac{d}{df}.derivative with respect to f of  .*.*.*.0.0.
+.\frac{d}{df}.derivative with respect to f of.*.*.*.0.0.
 .\frac{d}{dg^{n-1}.n-1 derivative with respect to g.*.*.*.0.0.
 .\frac{d}{dg^{n}.nth derivative with respect to g.*.*.*.0.0.
-.\frac{d}{dg}.derivative with respect to g of  .*.*.*.0.0.
+.\frac{d}{dg}.derivative with respect to g of.*.*.*.0.0.
 .\frac{d}{dh^{n-1}.n-1 derivative with respect to h.*.*.*.0.0.
 .\frac{d}{dk^{n}.nth derivative with respect to k.*.*.*.0.0.
 .\frac{d}{dk^{n}.nth derivative with respect to k.*.*.*.0.0.
-.\frac{d}{dk}.derivative with respect to k of  .*.*.*.0.0.
+.\frac{d}{dk}.derivative with respect to k of.*.*.*.0.0.
 .\frac{d}{dl^{n-1}.n-1 derivative with respect to l.*.*.*.0.0.
 .\frac{d}{dl^{n}.nth derivative with respect to l.*.*.*.0.0.
-.\frac{d}{dl}.derivative with respect to l of  .*.*.*.0.0.
+.\frac{d}{dl}.derivative with respect to l of.*.*.*.0.0.
 .\frac{d}{dm^{n-1}.n-1 derivative with respect to m.*.*.*.0.0.
 .\frac{d}{dm^{n}.nth derivative with respect to m.*.*.*.0.0.
-.\frac{d}{dm}.derivative with respect to m of  .*.*.*.0.0.
+.\frac{d}{dm}.derivative with respect to m of.*.*.*.0.0.
 .\frac{d}{dn^{n-1}.n-1 derivative with respect to n.*.*.*.0.0.
 .\frac{d}{dn^{n}.nth derivative with respect to n.*.*.*.0.0.
-.\frac{d}{dn}.derivative with respect to n of  .*.*.*.0.0.
+.\frac{d}{dn}.derivative with respect to n of.*.*.*.0.0.
 .\frac{d}{do^{n-1}.n-1 derivative with respect to o.*.*.*.0.0.
 .\frac{d}{do^{n}.nth derivative with respect to o.*.*.*.0.0.
-.\frac{d}{do}.derivative with respect to o of  .*.*.*.0.0.
+.\frac{d}{do}.derivative with respect to o of.*.*.*.0.0.
 .\frac{d}{dp^{n-1}.n-1 derivative with respect to p.*.*.*.0.0.
 .\frac{d}{dp^{n}.nth derivative with respect to p.*.*.*.0.0.
-.\frac{d}{dp}.derivative with respect to p of  .*.*.*.0.0.
+.\frac{d}{dp}.derivative with respect to p of.*.*.*.0.0.
 .\frac{d}{dq^{n-1}.n-1 derivative with respect to q.*.*.*.0.0.
 .\frac{d}{dq^{n}.nth derivative with respect to q.*.*.*.0.0.
-.\frac{d}{dq}.derivative with respect to q of  .*.*.*.0.0.
+.\frac{d}{dq}.derivative with respect to q of.*.*.*.0.0.
 .\frac{d}{dr^{n-1}.n-1 derivative with respect to r.*.*.*.0.0.
 .\frac{d}{dr^{n}.nth derivative with respect to r.*.*.*.0.0.
-.\frac{d}{dr}.derivative with respect to r of  .*.*.*.0.0.
+.\frac{d}{dr}.derivative with respect to r of.*.*.*.0.0.
 .\frac{d}{ds^{n-1}.n-1 derivative with respect to s.*.*.*.0.0.
 .\frac{d}{ds^{n}.nth derivative with respect to s.*.*.*.0.0.
-.\frac{d}{ds}.derivative with respect to s of  .*.*.*.0.0.
+.\frac{d}{ds}.derivative with respect to s of.*.*.*.0.0.
 .\frac{d}{dt^{n-1}.n-1 derivative with respect to t.*.*.*.0.0.
 .\frac{d}{dt^{n}.nth derivative with respect to t.*.*.*.0.0.
-.\frac{d}{dt}.derivative with respect to t of  .*.*.*.0.0.
+.\frac{d}{dt}.derivative with respect to t of.*.*.*.0.0.
 .\frac{d}{du^{n-1}.n-1 derivative with respect to u.*.*.*.0.0.
 .\frac{d}{du^{n}.nth derivative with respect to u.*.*.*.0.0.
-.\frac{d}{du}.derivative with respect to u of  .*.*.*.0.0.
+.\frac{d}{du}.derivative with respect to u of.*.*.*.0.0.
 .\frac{d}{dv^{n-1}.n-1 derivative with respect to v.*.*.*.0.0.
 .\frac{d}{dv^{n}.nth derivative with respect to v.*.*.*.0.0.
-.\frac{d}{dv}.derivative with respect to v of  .*.*.*.0.0.
+.\frac{d}{dv}.derivative with respect to v of.*.*.*.0.0.
 .\frac{d}{dw^{n-1}.n-1 derivative with respect to w.*.*.*.0.0.
 .\frac{d}{dw^{n}.nth derivative with respect to w.*.*.*.0.0.
-.\frac{d}{dw}.derivative with respect to w of  .*.*.*.0.0.
+.\frac{d}{dw}.derivative with respect to w of.*.*.*.0.0.
 .\frac{d}{dx^{n-1}.n-1 derivative with respect to x.*.*.*.0.0.
 .\frac{d}{dx^{n}.nth derivative with respect to x.*.*.*.0.0.
-.\frac{d}{dx}.derivative with respect to x of  .*.*.*.0.0.
+.\frac{d}{dx}.derivative with respect to x of.*.*.*.0.0.
 .\frac{d}{dy^{n-1}.n-1 derivative with respect to y.*.*.*.0.0.
 .\frac{d}{dy^{n}.nth derivative with respect to y.*.*.*.0.0.
-.\frac{d}{dy}.derivative with respect to y of  .*.*.*.0.0.
+.\frac{d}{dy}.derivative with respect to y of.*.*.*.0.0.
 .\frac{d}{dz^{n-1}.n-1 derivative with respect to z.*.*.*.0.0.
 .\frac{d}{dz^{n}.nth derivative with respect to z.*.*.*.0.0.
-.\frac{d}{dz}.derivative with respect to z of  .*.*.*.0.0.
+.\frac{d}{dz}.derivative with respect to z of.*.*.*.0.0.
 .\frown.arc.*.*.*.0.0.
-.\Gamma.capital gamma .*.*.*.1.0.
+.\Gamma.capital gamma.*.*.*.1.0.
 .\gamma.gamma.*.*.*.0.0.
 .\gcd.gcd.*.*.*.0.0.
-.\geq.greater than or equal to .*.*.*.0.0.
+.\geq.greater than or equal to.*.*.*.0.0.
 .\ge.greater than or equal to.*.*.*.0.0.
 .\gg.much greater than.*.*.*.0.0.
 .\gt.greater than.*.*.*.0.0.
 .\hbar.h bar.*.*.*.0.0.
 .\hdotsfor {3}.dotted line.*.*.*.0.0.
 .\heartsuit.heart suit.*.*.*.0.0.
-.\hom. homomorfism of.*.*.*.0.0.
+.\hom.homomorfism of.*.*.*.0.0.
 .\iiiint.quadruple integral of.*.*.*.0.0.
 .\iiint.triple integral  of.*.*.*.0.0.
 .\iint.double integral of.*.*.*.0.0.
-.\Im.imaginary part .*.*.*.0.0.
+.\Im.imaginary part.*.*.*.0.0.
 .\imath.i.*.*.*.0.0.
-.\impliedby.implied by .*.*.*.0.0.
+.\impliedby.implied by.*.*.*.0.0.
 .\implies.implies.*.*.*.0.0.
-.\in .in.*.*.*.0.0.
+.\in.in.*.*.*.0.0.
 .\inf.infimum.*.*.*.0.0.
-.\infty .infinity.*.*.*.0.0.
-.\int .integral of.*.*.*.0.0.
+.\infty.infinity.*.*.*.0.0.
+.\int.integral of.*.*.*.0.0.
 .\int \sb 0 ^ 1.integral from 0 to 1 of.*.*.*.0.0.
 .\int \sb 0 ^1.integral from 0 to 1 of.*.*.*.0.0.
 .\int \sb 0^ 1.integral from 0 to 1 of.*.*.*.0.0.
@@ -371,14 +372,14 @@
 .\jmath.j.*.*.*.0.0.
 .\kappa.kappa.*.*.*.0.0.
 .\ker.kernel.*.*.*.0.0.
-.\Lambda.capital lambda .*.*.*.1.0.
+.\Lambda.capital lambda.*.*.*.1.0.
 .\lambda.lambda.*.*.*.0.0.
 .\left (.left paren.*.*.*.0.0.
 .\left ( x \right ).of x.*.*.*.0.0.
 .\left ( x\right ).of x.*.*.*.0.0.
 .\left (x \right ).of x.*.*.*.0.0.
 .\left (x\right ).of x.*.*.*.0.0.
-.\left [.left bracket .*.*.*.0.0.
+.\left [.left bracket.*.*.*.0.0.
 .\left \{.left brace.*.*.*.0.0.
 .\left \|.begin norm.*.*.*.0.0.
 .\left (n-1\right )!.left paren n minus 1 right paren factorial.*.*.*.0.0.
@@ -387,7 +388,7 @@
 .\Leftrightarrow.equivalent.*.*.*.1.0.
 .\leftrightarrow.equivalent.*.*.*.0.0.
 .\leq.less than or equal to.*.*.*.0.0.
-.\lg.logarithm to base 10 of .*.*.*.0.0.
+.\lg.logarithm to base 10 of.*.*.*.0.0.
 .\lim.limit.*.*.*.0.0.
 .\lim \sb.limit for.*.*.*.0.0.
 .\lim \sb {x\to +\infty }.limit for x going to plus infinity of.*.*.*.0.0.
@@ -397,14 +398,14 @@
 .\lim \sb {x\to 0}.limit for x going to zero.*.*.*.0.0.
 .\lim \sb {x\to \infty }.limit for x going to infinity of.*.*.*.0.0.
 .\lim \sb {x\to \pm \infty }.limit for x going to plus or minus infinity of.*.*.*.0.0.
-.\liminf. inferior limit.*.*.*.0.0.
+.\liminf.inferior limit.*.*.*.0.0.
 .\liminf \sb.inferior limit for.*.*.*.0.0.
-.\limsup. superior limit.*.*.*.0.0.
-.\limsup \sb. superior limit for.*.*.*.0.0.
-.\ll.much lower than .*.*.*.0.0.
-.\ln.natural logarithm  .*.*.*.0.0.
+.\limsup.superior limit.*.*.*.0.0.
+.\limsup \sb.superior limit for.*.*.*.0.0.
+.\ll.much lower than.*.*.*.0.0.
+.\ln.natural logarithm.*.*.*.0.0.
 .\log.logarithm.*.*.*.0.0.
-.\log \sb .logarithm to base.*.*.*.0.0.
+.\log \sb.logarithm to base.*.*.*.0.0.
 .\log \sb {a}(b).logarithm to base a of b.*.*.*.0.0.
 .\log \sb {e}.logarithm to base e of.*.*.*.0.0.
 .\longleftarrow.long left arrow.*.*.*.0.0.
@@ -413,7 +414,7 @@
 .\lVert.begin norm.*.*.*.1.0.
 .\lvert.begin absolute value.*.*.*.0.0.
 .\mathbb C.set C of complex numbers.*.*.*.0.0.
-.\mathbb N.set N of natural numbers .*.*.*.0.0.
+.\mathbb N.set N of natural numbers.*.*.*.0.0.
 .\mathbb Q.set Q of rational numbers.*.*.*.0.0.
 .\mathbb R.set  R of real numbers.*.*.*.0.0.
 .\mathbb Z.set Z of relative numbers.*.*.*.0.0.
@@ -434,20 +435,20 @@
 .\nLeftrightarrow.nor equivalent.*.*.*.1.0.
 .\not.not.*.*.*.0.0.
 .\not \exists.there does not exist.*.*.*.0.0.
-.\not \in.not in .*.*.*.0.0.
+.\not \in.not in.*.*.*.0.0.
 .\not \subset.not a subset of.*.*.*.0.0.
 .\not \subseteq.not a subset or equal to.*.*.*.0.0.
-.\not \supset.not superset of .*.*.*.0.0.
+.\not \supset.not superset of.*.*.*.0.0.
 .\not \supseteq.not superset or equal to.*.*.*.0.0.
-.\notin.not in .*.*.*.0.0.
+.\notin.not in.*.*.*.0.0.
 .\nRightarrow.does not  imply.*.*.*.1.0.
-.\nsubseteq.not a subset or equal to .*.*.*.0.0.
+.\nsubseteq.not a subset or equal to.*.*.*.0.0.
 .\nsupseteq.not a superset of.*.*.*.0.0.
 .\nu.nu.*.*.*.0.0.
 .\o.omicron.*.*.*.0.0.
 .\odot.point produced with the circle.*.*.*.0.0.
 .\oint.circuitation.*.*.*.0.0.
-.\Omega.capital omega .*.*.*.1.0.
+.\Omega.capital omega.*.*.*.1.0.
 .\omega.omega.*.*.*.0.0.
 .\ominus.minus with circle.*.*.*.0.0.
 .\oplus.plus with circle.*.*.*.0.0.
@@ -455,17 +456,17 @@
 .\otimes.x with circle.*.*.*.0.0.
 .\overline.overline.*.*.*.0.0.
 .\overrightarrow {.vector left brace.*.*.*.0.0.
-.\parallel. parallel to.*.*.*.0.0.
+.\parallel.parallel to.*.*.*.0.0.
 .\partial.partial.*.*.*.0.0.
-.\perp.perpendicular to .*.*.*.0.0.
-.\Phi.capital phi .*.*.*.1.0.
+.\perp.perpendicular to.*.*.*.0.0.
+.\Phi.capital phi.*.*.*.1.0.
 .\phi.phi.*.*.*.0.0.
-.\Pi.capital Greek pi .*.*.*.1.0.
+.\Pi.capital Greek pi.*.*.*.1.0.
 .\pi.Greek pi.*.*.*.0.0.
 .\pm.plus or minus.*.*.*.0.0.
-.\Pr. product.*.*.*.0.0.
+.\Pr.product.*.*.*.0.0.
 .\prec.predecessor of.*.*.*.0.0.
-.\preceq.predecessor or equal to .*.*.*.0.0.
+.\preceq.predecessor or equal to.*.*.*.0.0.
 .\prime.prime.*.*.*.0.0.
 .\prime \prime.second.*.*.*.0.0.
 .\prod.product.*.*.*.0.0.
@@ -531,7 +532,7 @@
 .\prod \limits \sb {n=1}^\infty.product for n=1 to infinity.*.*.*.0.0.
 .\prod \limits \sb {n=1}^{\infty }.product for n=1 to infinity.*.*.*.0.0.
 .\projlim. .*.*.*.0.0.
-.\propto. proportional to.*.*.*.0.0.
+.\propto.proportional to.*.*.*.0.0.
 .\protect \mathaccentV {vec}17E.vector.*.*.*.0.0.
 .\protect \mathaccentV {vec}17E{i}.vector i.*.*.*.0.0.
 .\protect \mathaccentV {vec}17E{j}.vector j.*.*.*.0.0.
@@ -541,21 +542,21 @@
 .\protect \mathaccentV {vec}17E{w}.vector w.*.*.*.0.0.
 .\protect \mathaccentV {vec}17E{x}.vector x.*.*.*.0.0.
 .\protect \mathaccentV {vec}17E{y}.vector y.*.*.*.0.0.
-.\Psi.capital psi .*.*.*.1.0.
+.\Psi.capital psi.*.*.*.1.0.
 .\psi.psi.*.*.*.0.0.
 .\qopname \relax m{lim}\sb {.limit for.*.*.*.0.0.
 .\qopname \relax m{lim}\sb {x\to +\infty }.limit for x going to plus infinity of.*.*.*.0.0.
-.\qquad . .*.*.*.0.0.
-.\quad . .*.*.*.0.0.
-.\Re.  real part of.*.*.*.0.0.
+.\qquad. .*.*.*.0.0.
+.\quad. .*.*.*.0.0.
+.\Re.real part of.*.*.*.0.0.
 .\rho.ro.*.*.*.0.0.
-.\right ).right paren .*.*.*.0.0.
+.\right ).right paren.*.*.*.0.0.
 .\right \|.end of norm.*.*.*.0.0.
 .\right \}.right brace.*.*.*.0.0.
-.\right ].right bracket .*.*.*.0.0.
+.\right ].right bracket.*.*.*.0.0.
 .\right].right bracket.*.*.*.0.0.
 .\Rightarrow.implies.*.*.*.1.0.
-.\rightarrow.going to .*.*.*.0.0.
+.\rightarrow.going to.*.*.*.0.0.
 .\rVert.end of norm.*.*.*.1.0.
 .\rvert.end of absolute value.*.*.*.0.0.
 .\sb.subscript.*.*.*.0.0.
@@ -570,19 +571,19 @@
 .\sigma.sigma.*.*.*.0.0.
 .\sim.similar to.*.*.*.0.0.
 .\simeq.similar or equal to.*.*.*.0.0.
-.\sin.sine .*.*.*.0.0.
+.\sin.sine.*.*.*.0.0.
 .\sin ^2.sine squared of.*.*.*.0.0.
 .\sin ^3.sine cubed of.*.*.*.0.0.
-.\sin ^{2}.sine squared of .*.*.*.0.0.
-.\sin ^{3}.sine cubed of .*.*.*.0.0.
+.\sin ^{2}.sine squared of.*.*.*.0.0.
+.\sin ^{3}.sine cubed of.*.*.*.0.0.
 .\sinh.hyperbolic sine.*.*.*.0.0.
 .\smile.product cup.*.*.*.0.0.
 .\spadesuit.spade suit.*.*.*.0.0.
-.\sqcap.greatest common divisor .*.*.*.0.0.
+.\sqcap.greatest common divisor.*.*.*.0.0.
 .\sqcup.disjoint union.*.*.*.0.0.
 .\sqrt.root.*.*.*.0.0.
 .\sqrt [.root with index left bracket.*.*.*.0.0.
-.\sqrt [3].cube root of .*.*.*.0.0.
+.\sqrt [3].cube root of.*.*.*.0.0.
 .\sqrt [n].root with index n of.*.*.*.0.0.
 .\sqrt {.square root of left brace.*.*.*.0.0.
 .\sqsubseteq.subset (square symbol).*.*.*.0.0.
@@ -591,10 +592,10 @@
 .\star.star.*.*.*.0.0.
 .\subset.proper subset of.*.*.*.0.0.
 .\subseteq.subset or equal to.*.*.*.0.0.
-.\subsetneq.proper subset of .*.*.*.0.0.
-.\succ.successor of .*.*.*.0.0.
+.\subsetneq.proper subset of.*.*.*.0.0.
+.\succ.successor of.*.*.*.0.0.
 .\succeq.successor or equal to.*.*.*.0.0.
-.\sum .sum.*.*.*.0.0.
+.\sum.sum.*.*.*.0.0.
 .\sum \limits.sum of.*.*.*.0.0.
 .\sum \limits \sb {i=0} ^ \infty.sum for i=0 to infinity.*.*.*.0.0.
 .\sum \limits \sb {i=0} ^ n.sum for i=0 to n.*.*.*.0.0.
@@ -658,21 +659,21 @@
 .\supsetq.superset.*.*.*.0.0.
 .\surd.square root.*.*.*.0.0.
 .\tan.tangent.*.*.*.0.0.
-.\tan ^2.tangent squared of .*.*.*.0.0.
-.\tan ^3.tangent cubed of .*.*.*.0.0.
-.\tan ^{2}.tangente al quadrato di.*.*.*.0.0.
-.\tan ^{3}.tangente al cubo di .*.*.*.0.0.
-.\tanh.hyperbolic tangent .*.*.*.0.0.
+.\tan ^2.tangent squared of.*.*.*.0.0.
+.\tan ^3.tangent cubed of.*.*.*.0.0.
+.\tan ^{2}.tangent squared of.*.*.*.0.0.
+.\tan ^{3}.tangent cubed of.*.*.*.0.0.
+.\tanh.hyperbolic tangent.*.*.*.0.0.
 .\tau.tau.*.*.*.0.0.
 .\text.text.*.*.*.0.0.
 .\Theta.capital theta.*.*.*.1.0.
 .\theta.theta.*.*.*.0.0.
 .\times.times.*.*.*.0.0.
-.\to. going to .*.*.*.0.0.
+.\to.going to.*.*.*.0.0.
 .\top.tautology.*.*.*.0.0.
 .\triangle.triangle.*.*.*.0.0.
-.\triangleq.defined equal to .*.*.*.0.0.
-.\uplus.union with plus .*.*.*.0.0.
+.\triangleq.defined equal to.*.*.*.0.0.
+.\uplus.union with plus.*.*.*.0.0.
 .\Upsilon.capital upsilon.*.*.*.1.0.
 .\upsilon.upsilon.*.*.*.0.0.
 .\varchi.khi.*.*.*.0.0.
@@ -682,7 +683,7 @@
 .\varlimsup. .*.*.*.0.0.
 .\varphi.phi.*.*.*.0.0.
 .\varpi.Greek pi.*.*.*.0.0.
-.\varprojlim . .*.*.*.0.0.
+.\varprojlim. .*.*.*.0.0.
 .\varrho.rho.*.*.*.0.0.
 .\varsigma.sigma.*.*.*.0.0.
 .\vartheta.theta.*.*.*.0.0.
@@ -697,69 +698,69 @@
 .\vec {x}.vector x.*.*.*.0.0.
 .\vec {y}.vector y.*.*.*.0.0.
 .\vee.vel.*.*.*.0.0.
-.\Vert.double vertical bar  .*.*.*.1.0.
+.\Vert.double vertical bar.*.*.*.1.0.
 .\vert.vertical bar.*.*.*.0.0.
 .\wedge.vedge.*.*.*.0.0.
 .\widehat.angle.*.*.*.0.0.
 .\wp.set of all subsets of.*.*.*.0.0.
-.\wr.reversed s .*.*.*.0.0.
+.\wr.reversed s.*.*.*.0.0.
 .\Xi.capital xi.*.*.*.1.0.
 .\xi.xi.*.*.*.0.0.
 .\zeta.zeta.*.*.*.0.0.
-.\{.left brace .*.*.*.0.0.
-.\}.right brace .*.*.*.0.0.
+.\{.left brace.*.*.*.0.0.
+.\}.right brace.*.*.*.0.0.
 .^.superscript.*.*.*.0.0.
 .^ 2.squared.*.*.*.0.0.
-.^ 3. cubed.*.*.*.0.0.
+.^ 3.cubed.*.*.*.0.0.
 .^ \prime.prime.*.*.*.0.0.
 .^ { \prime \prime }.second.*.*.*.0.0.
-.^ {2}. squared.*.*.*.0.0.
-.^ {3}. cubed.*.*.*.0.0.
+.^ {2}.squared.*.*.*.0.0.
+.^ {3}.cubed.*.*.*.0.0.
 .^ {\prime \prime }.second.*.*.*.0.0.
 .^ {\prime }.prime.*.*.*.0.0.
-.^2. squared.*.*.*.0.0.
-.^3. cubed.*.*.*.0.0.
+.^2.squared.*.*.*.0.0.
+.^3.cubed.*.*.*.0.0.
 .^\prime.prime.*.*.*.0.0.
 .^{2}.squared.*.*.*.0.0.
-.^{3}. cubed.*.*.*.0.0.
+.^{3}.cubed.*.*.*.0.0.
 .^{\prime \prime }.second.*.*.*.0.0.
 .^{\prime }.prime.*.*.*.0.0.
 .^{}.squared.*.*.*.0.0.
 .D_{x^{2}}.second derivative with respect to x.*.*.*.0.0.
 .D_{xx}.second derivative with respect to x and x.*.*.*.0.0.
-.D_{xy}. second derivative with respect to x and y.*.*.*.0.0.
+.D_{xy}.second derivative with respect to x and y.*.*.*.0.0.
 .D_{x}.derivative with respect to x of.*.*.*.0.0.
-.db. partial b.*.*.*.0.0.
+.db.partial b.*.*.*.0.0.
 .dc.partial c.*.*.*.0.0.
-.dd. partial e.*.*.*.0.0.
-.df. partial f.*.*.*.0.0.
-.dg. partial g.*.*.*.0.0.
-.dh. partial h.*.*.*.0.0.
-.dj. partial j.*.*.*.0.0.
-.dk. partial k.*.*.*.0.0.
-.dl. partial l.*.*.*.0.0.
-.dm. partial m.*.*.*.0.0.
-.dn. partial n.*.*.*.0.0.
-.do. partial o.*.*.*.0.0.
-.dp. partial p.*.*.*.0.0.
+.dd.partial e.*.*.*.0.0.
+.df.partial f.*.*.*.0.0.
+.dg.partial g.*.*.*.0.0.
+.dh.partial h.*.*.*.0.0.
+.dj.partial j.*.*.*.0.0.
+.dk.partial k.*.*.*.0.0.
+.dl.partial l.*.*.*.0.0.
+.dm.partial m.*.*.*.0.0.
+.dn.partial n.*.*.*.0.0.
+.do.partial o.*.*.*.0.0.
+.dp.partial p.*.*.*.0.0.
 .dq.partial q.*.*.*.0.0.
-.dr. partial r.*.*.*.0.0.
-.ds. partial s.*.*.*.0.0.
+.dr.partial r.*.*.*.0.0.
+.ds.partial s.*.*.*.0.0.
 .dt.partial t.*.*.*.0.0.
-.du. partial  u.*.*.*.0.0.
-.dv. partial v.*.*.*.0.0.
+.du.partial  u.*.*.*.0.0.
+.dv.partial v.*.*.*.0.0.
 .dwdx.partial  w partial x.*.*.*.0.0.
-.dwdy. partial w partial ipsilon.*.*.*.0.0.
+.dwdy.partial w partial ipsilon.*.*.*.0.0.
 .dwdz.partial w partial z.*.*.*.0.0.
-.dx. partial x.*.*.*.0.0.
+.dx.partial x.*.*.*.0.0.
 .dxdw.partial x partial w.*.*.*.0.0.
 .dxdy.partial x partial ipsilon.*.*.*.0.0.
 .dxdz.partial  x partial z.*.*.*.0.0.
-.dy. partial ipsilon.*.*.*.0.0.
+.dy.partial ipsilon.*.*.*.0.0.
 .dydw.partial ipsilon partial w.*.*.*.0.0.
 .dydx.partial ipsilon partial x.*.*.*.0.0.
 .dydz.partial ipsilon partial z.*.*.*.0.0.
-.dz. partial z.*.*.*.0.0.
+.dz.partial z.*.*.*.0.0.
 .dzdw.partial z partial w.*.*.*.0.0.
 .dzdx.partial z partial x.*.*.*.0.0.
 .dzdy.partial z partial ipsoln.*.*.*.0.0.
@@ -773,6 +774,8 @@
 .f(x).f of  x.*.*.*.0.0.
 .g'(x).g-prime  of x.*.*.*.0.0.
 .g(x).g of x.*.*.*.0.0.
+.h'(x).h-prime  of x.*.*.*.0.0.
+.h(x).h of x.*.*.*.0.0.
 .g\left( x\right).g of x.*.*.*.0.0.
 .Leftrightarrow.Equivalent to.*.*.*.0.0.
 .Longeftrightarrow.Equivalent to.*.*.*.0.0.
